@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585096499261",
+    "project_id": "flutter-notification-dbda5",
+    "storage_bucket": "flutter-notification-dbda5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585096499261:android:ada558556b5f13f1d0da54",
+        "android_client_info": {
+          "package_name": "com.snm.nicoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjskB2aloS4CWaL_6U-r1mGSiCVJfcvDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
